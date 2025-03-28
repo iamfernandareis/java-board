@@ -66,7 +66,3 @@ Certifique-se de ter os seguintes itens instalados em sua máquina:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [sua licença aqui]. Consulte o arquivo `LICENSE` para mais detalhes.
