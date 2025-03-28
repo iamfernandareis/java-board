@@ -1,0 +1,74 @@
+mar. 28, 2025 2:43:31 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408191938.sql
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408210954.sql
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408211004.sql
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408211005.sql
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408281807.sql
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Creating database history table with name: board.DATABASECHANGELOG
+mar. 28, 2025 2:43:32 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.DATABASECHANGELOG
+mar. 28, 2025 2:43:33 PM liquibase.lockservice
+INFORMAÇÕES: Successfully acquired change log lock
+mar. 28, 2025 2:43:33 PM liquibase.command
+INFORMAÇÕES: Using deploymentId: 3183813167
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.DATABASECHANGELOG
+Running Changeset: db/changelog/migrations/db.changelog-202408191938.sql::202408191938::junior
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202408191938.sql::202408191938::junior ran successfully in 207ms
+Running Changeset: db/changelog/migrations/db.changelog-202408210954.sql::202408191938::junior
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202408210954.sql::202408191938::junior ran successfully in 197ms
+Running Changeset: db/changelog/migrations/db.changelog-202408211004.sql::202408191938::junior
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+mar. 28, 2025 2:43:33 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202408211004.sql::202408191938::junior ran successfully in 148ms
+Running Changeset: db/changelog/migrations/db.changelog-202408211005.sql::202408191938::junior
+mar. 28, 2025 2:43:34 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+mar. 28, 2025 2:43:34 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202408211005.sql::202408191938::junior ran successfully in 173ms
+Running Changeset: db/changelog/migrations/db.changelog-202408281807.sql::202408191938::junior
+mar. 28, 2025 2:43:34 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+mar. 28, 2025 2:43:34 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202408281807.sql::202408191938::junior ran successfully in 258ms
+
+UPDATE SUMMARY
+Run:                          5
+Previously run:               0
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: Run:                          5
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: Previously run:               0
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: -------------------------------
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: Total change sets:            5
+mar. 28, 2025 2:43:34 PM liquibase.util
+INFORMAÇÕES: Update summary generated
+mar. 28, 2025 2:43:34 PM liquibase.command
+INFORMAÇÕES: Update command completed successfully.
+Liquibase: Update has been successful. Rows affected: 5
+mar. 28, 2025 2:43:34 PM liquibase.lockservice
+INFORMAÇÕES: Successfully released change log lock
+mar. 28, 2025 2:43:34 PM liquibase.command
+INFORMAÇÕES: Command execution complete
